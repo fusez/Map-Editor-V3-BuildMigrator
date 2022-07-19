@@ -1,7 +1,7 @@
 # Map Editor V3 Building Data Migration
 
 ## Purpose
-### This is a tool for users who have been using the mapeditor v3 and cannot remove buildings, but want to keep all your self-made categories and its' contents.
+### This is a tool for users who have been using the mapeditor v3 and cannot remove buildings, but want to keep all their self-made categories and its' contents.
 ### **If** you **can** remove buildings with the map editor, then you **do not** need this script.
 
 By using this tool instead of replacing your mapedit.db with a new one, you will keep all of your categories and their items intact, and still retrieve all of the building data required for removing buildings.
